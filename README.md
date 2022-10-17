@@ -1,4 +1,4 @@
-## A2C-based-MIMO-antenna-selection
+## A2C-Based-MIMO-Antenna-Selection
 
 Implementation of Advanced Actor-Critic (A2C) algorithm-based MIMO antenna selection.
 
